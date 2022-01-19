@@ -1,4 +1,4 @@
- ## 👨🏻‍💻 Junior Back-end developer 👋 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ows0871@gmail.com)](mailto:ows0871@gmail.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanderer-s%2Fwanderer-s&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ ## 👨🏻‍💻 Junior Back-end developer 👋 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ows0871@gmail.com)](mailto:ows0871@gmail.com) [![Velog_Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=V&logoColor=white)](https://velog.io/@wanderer-s) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanderer-s%2Fwanderer-s&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 I want to make people's lives better with my software development.<br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderer-s&show_icons=true&theme=redical&hide_title=true&count_private=true&hide=stars&line_height=30) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderer-s&layout=compact)](https://github.com/wanderer-s)
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=red"/>&nbsp
  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>&nbsp
